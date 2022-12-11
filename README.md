@@ -1,18 +1,20 @@
-### Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nour
+### Hi 🤗, I'm Nour
+
+<img width="250" src="https://media3.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47cv20th1kf8nb2n8wduevk64b3xh95mg443wtiyt2&rid=giphy.gif&ct=g">
 
 <div align="center">
 <h1 align="center"></h1>
-</div>
+</di>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://github.com/nour-borgi">
+  <img  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 <div>
-<h2>You can reach me by 🤗</h2>
+<h2>You can reach me by</h2>
   <p align="center">
     <br/>
     <a href="https://www.linkedin.com/in/nour-borgi/" target="blank"><img align="center"
